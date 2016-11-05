@@ -1,3 +1,3 @@
 # md5Crypt
 md5Crypt
-对应Apache common.code 算法
+对应Apache common.codec md5Crypt算法
